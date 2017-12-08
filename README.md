@@ -4,6 +4,6 @@ These graphics are made as a side project for me.
 
 I decided to convert my computer envoriment fulltime to Linux. Needed something to familiarize me with the software package Inkscape.
 
-Also I'm a long time vaper. It's forbidden to do advertisment for vaping products, but brick and mortar store still have a need to dress up their shop. So I thought of doing a little series of advertisment stuff without it being actual advertisment for products. 
+Also I'm a long time vaper. It's forbidden to do advertisment for vaping products, but brick and morter stores still have a need to dress up their shop. So I thought of doing a little series of advertisment stuff without it being actual advertisment for a product. 
 
 Just a fun little projects. Maybe I do some more in the future.
